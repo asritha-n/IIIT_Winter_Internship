@@ -1,0 +1,9 @@
+venv/
+datasets/
+!datasets/*.yaml
+*.pt
+__pycache__/
+*.log
+*.jpg
+
+
