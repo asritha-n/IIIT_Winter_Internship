@@ -4,6 +4,5 @@ datasets/
 *.pt
 __pycache__/
 *.log
-*.jpg
 *_local.ipynb
 
